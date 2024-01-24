@@ -1,7 +1,7 @@
 #page title
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
-# App I nfo
+# App Info
 ios_app_id                                : 6476264841                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Yurio Miyazawa                         
 your_link                                 : https://yurio.net                    
-your_city                                 : Nagakute, Aichi, Japan                               
+your_city                                 : Aichi, Japan                               
 email_address                             : me@yurio.net
 facebook_username                         :                                           
 instagram_username                        : 
